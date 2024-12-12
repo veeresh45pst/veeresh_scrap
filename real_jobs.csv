@@ -1,0 +1,96 @@
+Job ID,Job Title,Company Name,Job Location,Job Description,Classification
+36bec447a97c4f1e,Software Developer,Oracle,"OracleBengaluru, Karnataka","Design, develop, troubleshoot and debug software programs for databases, applications, tools, networks etc.
+Career Level - IC3
+ 
+
+As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.",Real
+7ab81c51c524fed1,Software Developer,Oracle,"OracleBengaluru, Karnataka","The Oracle Cloud Infrastructure (OCI) team can provide you the opportunity to build and operate a suite of massive scale, integrated cloud services in a broadly distributed, multi-tenant cloud environment. OCI is committed to providing the best in cloud products that meet the needs of our customers who are tackling some of the world’s biggest challenges.Oracle’s Cloud Infrastructure (OCI) team is a new ground-up effort to build Infrastructure-as-a-Service that operates at a high scale in a broadly distributed multi-tenant cloud environment. Our customers run their businesses on our cloud, and our mission is to provide them with best-in-class compute, storage, networking, database, security, and an ever-expanding set of foundational cloud-based services. These are exciting times in our space - we are growing fast, still at a relatively early stage, and working on ambitious new initiatives.   We are building a new Software Assurance Gateway team at OCI. Our mission is to build and operate a set of gateway services to perform comprehensive software assurance of the applications running within a tenancy . Software assurance includes measures to prevent the deployment of malware or vulnerable, malicious, or unauthorized code into the application’s tenancy. It also includes monitoring the flow of data in and out of the application’s tenancy to prevent unauthorized exfiltration of data. The software gateway services will intercept web traffic, operator actions, and CI/CD pipelines to perform a set of assurance functions such as vulnerability scanning, signature validation, rules checking, policy compliance and anomaly detection. These functions will generate logs, audit trails, metrics, and alerts to enable automated and manual assurance of code as well as ingress/egress traffic. The team will develop and maintain the gateway code as well as operate the gateway infrastructure for the application. The team will be responsible for the performance, scalability, and reliability of the gateways. In particular, they will be responsible for ensuring that the performance of the application, as well as the developer velocity of the application teams, are not negatively impacted by the assurance gateways. They will optimize the gateway code to ensure low overhead and they will scale the gateways to handle increases in traffic and in the frequencies of application updates.As Software Engineer, you will work with a team of software engineers responsible for the software design, development, and operations for our new and existing products. You should be able to architect broad systems interactions, be hands-on, be able to dive deep into any part of the stack, and have a good sense of cloud infrastructure and networking knowledge. You should value simplicity and impact, work comfortably in a collaborative, agile environment, and be excited to learn.Our senior engineers are also the people who can work independently and provide technical leadership to the organization. You should have experience developing and operating high-scale services, and an understanding of how to make these cloud-scale services resilient. The ideal candidate will be technically strong and productive; someone who knows how to balance speed and quality with iterative and incremental improvements. You understand operational excellence and know-how to infuse a culture of being proactive within your team. You recommend and justify major changes to new and existing products and establish consensus with data-driven approaches.
+Career Level - IC2
+ 
+
+Design, develop, solve and debug software programs for databases, applications, tools, networks etc.   As a member of the software engineering division, you will assist in defining and developing software for tasks associated with the developing, debugging or designing of software applications or operating systems. Provide technical leadership to other software developers. Specify, design and implement modest changes to existing software architecture to meet changing needs.   Duties and tasks are multifaceted and complex needing independent judgment. Fully competent in own area of expertise. May have project lead role and or supervise lower level personnel. BS or MS degree or equivalent experience relevant to functional area. 2 years of software engineering or related experience.
+Basic Qualifications: 
+
+BS degree or equivalent experience in Computer Science or related technical field involving coding or equivalent practical experience.
+1-2+ years of total experience with software development with 1+ years on the cloud back-end.
+Proficient at high level programming languages, preferably GO and Java. Good knowledge of scripting language such as Python.
+Knowledge of Big Data, Spark is a bonus.
+Ability to deliver products from the ground up going through a product life cycle
+Good Knowledge of Computer Networking (OSI layers, HTTP, DNS, TCP/IP, DHCP, Routers, Gateways, Subnets, etc)
+Knowledge of Linux internals, Linux/Unix solving skills
+Experience with devising, managing, and extending monitoring solutions for large scale environments.
+Systematic problem-solving approach, strong communication skills, a sense of ownership and drive
+Familiarity with host virtualization technologies (KVM, Containers, Docker, etc.)
+
+
+Preferred Qualifications: 
+
+
+Bachelors/Masters degree in Computer Science.
+Prior Hands-on experience developing cloud services and tools on Oracle Cloud/AWS/GCP/Azure.
+Experienced with microservices design patterns and service-to-service communication protocols along with developing highly reliable services.
+Experience working on large scale, highly distributed services infrastructure.
+Experience working on Kubernetes.
+Understanding of service metrics and alarms through the development of dashboards, service critical metrics, alarming systems.
+Experience working in an operational environment with critically meaningful tier one services with associated pager duty
+Familiarity with Infrastructure as Code (IAC) languages, preferably Terraform.
+Familiarity with databases (SQL and NoSQL)",Real
+e450e3688872b981,Software Developer Intern,Bixware Technologies Pvt Ltd,"Bixware Technologies Pvt LtdBengaluru, Karnataka","Job Title: Intern – 2
+Location: BangaloreWork Model: Hybrid (Minimum 3 days in office per week, Maximum 5 days)Experience: 0 - 1 YearJoining: Immediate JoinerLanguages Required: English & Hindi (Fluency in both is a must)
+Key Responsibilities:
+
+Assist in data analysis and reporting using Excel.
+Collaborate with the team to support various client projects and deliverables.
+Participate in coding and technical tasks using IT technologies (including languages such as Python, Java, or similar based on the specific technology stack).
+Prepare, format, and validate data for analysis or project reporting.
+Contribute to ongoing projects under the guidance of senior team members.
+Provide administrative support as required, including document management, task tracking, and client interaction.
+Attend and participate in client meetings and team discussions to understand project requirements.
+Assist with other tasks as assigned by the team lead or project manager.
+
+Key Requirements:
+
+Education: Professional degree (BE, BTECH, MCA, or similar) with knowledge in any IT coding technologies.
+Skills:
+Strong Excel skills (including formulas, pivot tables, and data analysis).
+Knowledge in coding (preferably Python, Java, or other IT technologies).
+Problem-solving and analytical mindset.
+Excellent verbal and written communication skills in English and Hindi.
+Experience: 0-1 years, freshers are encouraged to apply.
+Availability: Immediate joiners preferred.
+
+Additional Skills:
+
+Strong attention to detail.
+Ability to work in a fast-paced environment.
+Comfortable with hybrid work model (min 3 days in office).
+Good interpersonal skills and team player.
+
+Job Type: Full-time
+Pay: ₹120,000.00 - ₹200,000.00 per year
+Location Type:
+
+In-person
+
+Schedule:
+
+Day shift
+
+Application Question(s):
+
+How much strong in Excel?
+
+Education:
+
+Bachelor's (Preferred)
+
+Experience:
+
+Powerbi: 1 year (Required)
+total work: 1 year (Required)
+
+Language:
+
+Hindi (Required)
+
+Work Location: In person",Real

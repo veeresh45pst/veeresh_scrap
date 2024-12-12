@@ -1,0 +1,16 @@
+,,
+* They are all technology-related jobs,,
+* They are all based in Bengaluru, Karnataka, India
+* They all lack specific details about the job requirements, responsibilities, and company information
+* They all seem to be posting similar job titles and requirements, which is unusual for a genuine job posting,
+* None of them have a clear and specific job description, which is unusual for a genuine job posting,
+,,
+In general, fake job postings often have characteristics such as:,
+,,
+* Lack of specific details about the job requirements and responsibilities,,
+* Often use generic job titles and responsibilities,,
+* Typically post similar job postings with similar requirements,,
+* Often lack clear and specific information about the company,,
+* Frequently use vague language to describe the company culture and work environment,,
+,,
+I've assigned the category 'Fake' to each job, as none of them seem to be legitimate job postings.,
