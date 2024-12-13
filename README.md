@@ -31,7 +31,7 @@ Classification
 Provides download links for both the master file and the under-review file in the Streamlit app.
 Installation
 
-Clone the repository: bash git clone https://github.com/vanishree956/job-scraping-app.git cd job-scraping-app
+Clone the repository: bash git clone https://github.com/veeresh45pst/veeresh_scrap cd job-scraping-app
 
 Install the required dependencies: bash pip install -r requirements.txt
 
